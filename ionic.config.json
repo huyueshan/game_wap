@@ -1,0 +1,8 @@
+{
+  "name": "KYgames",
+  "integrations": {
+    "capacitor": {},
+    "cordova": {}
+  },
+  "type": "angular"
+}
